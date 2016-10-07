@@ -1,0 +1,3 @@
+BackEnd#/product/jboss/standalone/deployments/AVS.war#META-INF/MANIFEST.MF#Release
+SDP_CSM_FE#/product/jboss/standalone/deployments/SDP_CSM_FE.war#META-INF/maven/com.accenture.sdp/SDP_CSM_WS/pom.properties#Version
+SdpDeviceMeteringEJB#/product/jboss/standalone/deployments/SdpDeviceMeteringEJB.jar#META-INF/maven/com.accenture.sdp/SdpDeviceMeteringEJB/pom.properties#Version
