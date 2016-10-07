@@ -1,4 +1,5 @@
 #!/bin/bash
+USR=`whoami`
 readarray PKGLIST < /home/jboss/RelExtractor/package.list
 for ITERATOR in ${PKGLIST[@]}; do
         IFS=# read ART PKG FILE GREP <<< "$ITERATOR"
