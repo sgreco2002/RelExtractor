@@ -1,3 +1,16 @@
+------ MICRO ROLE
+micro-vodcatalogue#/product/jboss/standalone/deployments/avsbe-vodcatalogue-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-vodcatalogue-ms/pom.properties#version
+micro-userprofile#/product/jboss/standalone/deployments/avsbe-userprofile-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-userprofile-ms/pom.properties#version
+micro-userentitlm#/product/jboss/standalone/deployments/avsbe-userentitlement-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-userentitlement-ms/pom.properties#version
+micro-productpurc#/product/jboss/standalone/deployments/avsbe-productpurchase-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-productpurchase-ms/pom.properties#version
+micro-npvr#/product/jboss/standalone/deployments/avsbe-npvr-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-npvr-ms/pom.properties#version
+micro-livecatalog#/product/jboss/standalone/deployments/avsbe-livecatalogue-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-livecatalogue-ms/pom.properties#version
+micro-contentplay#/product/jboss/standalone/deployments/avsbe-contentplayback-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-contentplayback-ms/pom.properties#version
+micro-configuration#/product/jboss/standalone/deployments/avsbe-configuration-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-configuration-ms/pom.properties#version
+micro-samlvalidati#/product/jboss/standalone/deployments/avsbe-bts-samlvalidation-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-bts-samlvalidation-ms/pom.properties#version
+micro-bts-auth#/product/jboss/standalone/deployments/avsbe-bts-auth-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-bts-auth-ms/pom.properties#version
+micro-bookmark#/product/jboss/standalone/deployments/avsbe-bookmark-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-bookmark-ms/pom.properties#version
+micro-auth#/product/jboss/standalone/deployments/avsbe-auth-ms.war#META-INF/maven/com.accenture.avs/avsbe-auth-ms/pom.properties#version
 ------ SDP ROLE
 SDP_CSM_AC#/product/apache-tomcat/webapps/SDP_CSM_AC.war#META-INF/maven/com.accenture.sdp/SDP_CSM_AC/pom.properties#version
 SDP_CSM_CC#/product/apache-tomcat/webapps/SDP_CSM_CC.war#META-INF/maven/com.accenture.sdp/SDP_CSM_CC/pom.properties#version
