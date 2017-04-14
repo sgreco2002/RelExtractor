@@ -24,7 +24,7 @@ wa-AMS#/product/jboss/standalone/deployments/AMS.war#META-INF/MANIFEST.MF#Releas
 wa-SdpDeviceMeteringEJB#/product/jboss/standalone/deployments/SdpDeviceMeteringEJB.jar#META-INF/maven/com.accenture.sdp/SdpDeviceMeteringEJB/pom.properties#version
 ------ BATCH
 wa-dcq-live-ingestor#/product/jboss/standalone/deployments/dcq-live-ingestor.war#META-INF/maven/com.accenture.avs/dcq-live-ingestor-web/pom.properties#version
-wa-dcq-vod-ingestor#/product/jboss/standalone/deployments/dcq-vod-ingestor.war#META-INF/maven/com.accenture.avs/dcq-vod-ingestor-web/pom.properties
+wa-dcq-vod-ingestor#/product/jboss/standalone/deployments/dcq-vod-ingestor.war#META-INF/maven/com.accenture.avs/dcq-vod-ingestor-web/pom.properties#version
 wa-ciweblive#/product/apache-tomcat/webapps/ci-web-live.war#META-INF/MANIFEST.MF#AVS-Release
 wa-ciwebvod#/product/apache-tomcat/webapps/ci-web-vod.war#META-INF/MANIFEST.MF#AVS-Release
 wa-ciwebcontentapi#/product/apache-tomcat/webapps/content-api-web.war#META-INF/MANIFEST.MF#AVS-Release
