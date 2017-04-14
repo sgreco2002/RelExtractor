@@ -1,3 +1,6 @@
+------ SEARCH
+search-web#/product/apache-tomcat/webapps/search-engine-web.war#META-INF/MANIFEST.MF#Release
+------ DATABASE
 last-incr-authentication#/home/ec2-user/RelExtractor/get-db-last.sh#authentication
 last-incr-avs_be#/home/ec2-user/RelExtractor/get-db-last.sh#avs_be
 last-incr-cre_data_normalization#/home/ec2-user/RelExtractor/get-db-last.sh#cre_data_normalization
