@@ -1,4 +1,10 @@
-
+------ SDP ROLE
+SDP_CSM_AC#/product/apache-tomcat/webapps/SDP_CSM_AC.war#META-INF/maven/com.accenture.sdp/SDP_CSM_AC/pom.properties#version
+SDP_CSM_CC#/product/apache-tomcat/webapps/SDP_CSM_CC.war#META-INF/maven/com.accenture.sdp/SDP_CSM_CC/pom.properties#version
+SDP_CMS_FE#/product/jboss/standalone/deployments/SDP_CSM_FE.war#META-INF/maven/com.accenture.sdp/SDP_CSM_WS/pom.properties#version
+AVSConsole#/product/apache-tomcat/webapps/AVSConsole.war#META-INF/maven/com.accenture.sdp/AVSConsole/pom.properties#version
+AMS#/product/jboss/standalone/deployments/AMS.war#META-INF/MANIFEST.MF#Release
+SdpDeviceMeteringEJB#/product/jboss/standalone/deployments/SdpDeviceMeteringEJB.jar#META-INF/maven/com.accenture.sdp/SdpDeviceMeteringEJB/pom.properties#version
 ------ BATCH
 ciweblive#/product/apache-tomcat/webapps/ci-web-live.war#META-INF/MANIFEST.MF#AVS-Release
 ciwebvod#/product/apache-tomcat/webapps/ci-web-vod.war#META-INF/MANIFEST.MF#AVS-Release
