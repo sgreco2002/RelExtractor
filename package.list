@@ -1,3 +1,8 @@
+------ DCQ ROLE
+
+------ BE ROLE
+BackEnd#/product/jboss/standalone/deployments/AVS.war#META-INF/MANIFEST.MF#Release
+LoggingBE#/product/jboss/standalone/deployments/Logging.war#META-INF/maven/com.accenture.avs/LoggingBE/pom.properties#version
 ------ MICRO ROLE
 micro-vodcatalogue#/product/jboss/standalone/deployments/avsbe-vodcatalogue-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-vodcatalogue-ms/pom.properties#version
 micro-userprofile#/product/jboss/standalone/deployments/avsbe-userprofile-ms.war#META-INF/maven/com.accenture.avs.be/avsbe-userprofile-ms/pom.properties#version
