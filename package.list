@@ -1,3 +1,22 @@
+
+------ BATCH
+ciweblive#/product/apache-tomcat/webapps/ci-web-live.war#META-INF/MANIFEST.MF#AVS-Release
+ciwebvod#/product/apache-tomcat/webapps/ci-web-vod.war#META-INF/MANIFEST.MF#AVS-Release
+ciwebcontentapi#/product/apache-tomcat/webapps/content-api-web.war#META-INF/MANIFEST.MF#AVS-Release
+ciwebsamlstub#/product/apache-tomcat/webapps/samlstub.war#META-INF/MANIFEST.MF#AVS-Release
+cicorelive#/product/batches/ci-core-live/lib/ci-core-live-6.0f*.jar#META-INF/maven/com.accenture.avs.ci/ci-core-live/pom.properties#version
+cicorevod#/product/batches/ci-core-vod/lib/ci-core-vod-6.0f*.jar#META-INF/maven/com.accenture.avs.ci/ci-core-vod/pom.properties#version
+batch-CatalogueExtractor/#/product/batches/CatalogueExtractor/lib/avs-catalogue-extractor*.jar#META-INF/maven/avs-batches/avs-catalogue-extractor/pom.properties#version
+batch-rpgw-recurring#/product/batches/rpgw-recurring/lib/R-PGW-batch-recurring*.jar#META-INF/maven/com.accenture.avs.rpgw/R-PGW-batch-recurring/pom.properties#version
+batch-MetadataNormalizationBatch#/product/batches/MetadataNormalizationBatch/lib/MetadataNormalization-AVS-SNAPSHOT.jar#META-INF/MANIFEST.MF#release
+batch-UserAdvTagsIngestor#/product/batches/UserAdvTagsIngestor/lib/UserAdvTagsIngestor-AVS-SNAPSHOT.jar#META-INF/MANIFEST.MF#release
+batch-GeoBlocking#/product/batches/GeoBlocking/lib/GeoBlockingIngestor-AVS-SNAPSHOT.jar#META-INF/MANIFEST.MF#release
+batch-AnalyticsMapping#/product/batches/AnalyticsMappingBatch/lib/AnalyticsMappingBatch-*.jar#META-INF/MANIFEST.MF#release
+batch-most-wanted#/product/batches/most-wanted-batch/lib/most-wanted-batch.jar#META-INF/maven/com.accenture.avs/most-wanted-batch/pom.properties#version
+batch-clusterUpdate#/product/batches/clusterUpdateBatch/lib/clusterUpdateBatch.jar#META-INF/maven/com.accenture.sdp/clusterUpdateBatch/pom.properties#version
+batch-AVSBatch#/product/batches/AVSBatch/lib/AVSBatch-AVS-SNAPSHOT.jar#META-INF/maven/com.accenture.avs.metadata/AVSBatch/pom.properties#version
+batch-CleanIngestorLogTable#/product/batches/CleanIngestorLogTableBatch/lib/CleanIngestorLogTableBatch-6.0f-*.jar#META-INF/maven/com.accenture.avs/CleanIngestorLogTableBatch/pom.properties#version
+batch-CleanUserRegionLogTable#/product/batches/CleanUserRegionLogTableBatch/lib/CleanUserRegionLogTableBatch-6.0f-*.jar#META-INF/maven/com.accenture.avs/CleanUserRegionLogTableBatch/pom.properties#version
 ------ SEARCH
 search-web#/product/apache-tomcat/webapps/search-engine-web.war#META-INF/MANIFEST.MF#Release
 ------ DATABASE
